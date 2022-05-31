@@ -2,4 +2,4 @@
 
 This is a demo GIT repository.
 
-This is a new line that I am adding.
+This is a new line that I am adding. This is another line.
